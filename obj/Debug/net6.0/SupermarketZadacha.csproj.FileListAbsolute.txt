@@ -1,0 +1,14 @@
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\bin\Debug\net6.0\SupermarketZadacha.exe
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\bin\Debug\net6.0\SupermarketZadacha.deps.json
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\bin\Debug\net6.0\SupermarketZadacha.runtimeconfig.json
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\bin\Debug\net6.0\SupermarketZadacha.dll
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\bin\Debug\net6.0\SupermarketZadacha.pdb
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\obj\Debug\net6.0\SupermarketZadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\obj\Debug\net6.0\SupermarketZadacha.AssemblyInfoInputs.cache
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\obj\Debug\net6.0\SupermarketZadacha.AssemblyInfo.cs
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\obj\Debug\net6.0\SupermarketZadacha.csproj.CoreCompileInputs.cache
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\obj\Debug\net6.0\SupermarketZadacha.dll
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\obj\Debug\net6.0\refint\SupermarketZadacha.dll
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\obj\Debug\net6.0\SupermarketZadacha.pdb
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\obj\Debug\net6.0\SupermarketZadacha.genruntimeconfig.cache
+C:\Users\ickob\Documents\na Cvetinka\SupermarketZadacha\obj\Debug\net6.0\ref\SupermarketZadacha.dll
